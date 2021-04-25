@@ -11,6 +11,11 @@
   "repository": "https://github.com/UpliftAgency/twitter-revue-client",
   "author": "Marius Craciunoiu <marius@uplift.ltd>",
   "license": "MIT",
+  "files": [
+    "README.md",
+    "cjs/",
+    "esm/"
+  ],
   "scripts": {
     "prepublishOnly": "yarn build",
     "clean": "rm -rf cjs esm",
