@@ -1,3 +1,4 @@
+import fetch from "cross-fetch";
 import {
   ACCOUNTS_ENDPOINT,
   API_BASE_URL,
