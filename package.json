@@ -1,6 +1,6 @@
 {
   "name": "twitter-revue-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial API client for Twitter Revue",
   "main": "./cjs/index.js",
   "module": "./esm/index.js",
