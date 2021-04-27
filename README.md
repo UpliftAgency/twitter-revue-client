@@ -21,7 +21,7 @@ Also see [Revue API docs](https://www.getrevue.co/api).
 ```ts
 await revueClient.getAllIssues();
 
-await revue.addSubscriber({
+await revueClient.addSubscriber({
   email: "abc@123.com",
   first_name: "Abe",
   last_name: "Crinkle",
